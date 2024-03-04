@@ -1,0 +1,524 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814477024@s.whatsapp.net',
+    fromMe: false,
+    id: 'C841C0FB27A163D34891E68548B306D7',
+    participant: undefined
+  },
+  messageTimestamp: 1709514585,
+  pushName: 'Cande Muñoz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cómo vas con la app loca',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cómo vas con la app loca',
+  name: 'Cande Muñoz',
+  from: '5493814477024'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814740016@s.whatsapp.net',
+    fromMe: false,
+    id: 'D8414E5A145BE669CD85FC945585A713',
+    participant: undefined
+  },
+  messageTimestamp: 1709514675,
+  pushName: 'Isa Gonzalez',
+  broadcast: false,
+  message: Message {
+    conversation: 'arregla esa cosa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'arregla esa cosa',
+  name: 'Isa Gonzalez',
+  from: '5493814740016'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815088543@s.whatsapp.net',
+    fromMe: false,
+    id: '3A977F30A3E3ED939DCA',
+    participant: undefined
+  },
+  messageTimestamp: 1709515468,
+  pushName: 'Mer Pasteris',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Holiiiiii',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Holiiiiii',
+  name: 'Mer Pasteris',
+  from: '5493815088543'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815088543@s.whatsapp.net',
+    fromMe: false,
+    id: '3A10EFE808B41E778E52',
+    participant: undefined
+  },
+  messageTimestamp: 1709515471,
+  pushName: 'Mer Pasteris',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya hablo con las chicas',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya hablo con las chicas',
+  name: 'Mer Pasteris',
+  from: '5493815088543'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815088543@s.whatsapp.net',
+    fromMe: false,
+    id: '3A0D2311DE4066D05B69',
+    participant: undefined
+  },
+  messageTimestamp: 1709515475,
+  pushName: 'Mer Pasteris',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Y te aviso q onda',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y te aviso q onda',
+  name: 'Mer Pasteris',
+  from: '5493815088543'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815088543@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4516DD72D0EF82C7B7',
+    participant: undefined
+  },
+  messageTimestamp: 1709515610,
+  pushName: 'Mer Pasteris',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/31990481_1133851661390433_7289876762755792501_n.enc?ccb=11-4&oh=01_AdSmjZgUD5usn8DZQeJxw8DbPuL6rgPMXHFw84gXDYEuGA&oe=660CA08D&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 41,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/31990481_1133851661390433_7289876762755792501_n.enc?ccb=11-4&oh=01_AdSmjZgUD5usn8DZQeJxw8DbPuL6rgPMXHFw84gXDYEuGA&oe=660CA08D&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      contextInfo: [ContextInfo],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__56ce1f81-4de0-4a9d-963d-9a8fcf5607af',
+  name: 'Mer Pasteris',
+  from: '5493815088543'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815941393@s.whatsapp.net',
+    fromMe: false,
+    id: '7E7B62B3CD194DB005895EC76375D401',
+    participant: undefined
+  },
+  messageTimestamp: 1709516128,
+  pushName: 'Juan José Falci',
+  broadcast: false,
+  message: Message {
+    conversation: 'France. Cuando cargues nafta. Podrías pedir un tikets A',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'France. Cuando cargues nafta. Podrías pedir un tikets A',
+  name: 'Juan José Falci',
+  from: '5493815941393'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815941393@s.whatsapp.net',
+    fromMe: false,
+    id: '78F87774888E8FF69DEAA8CCB38B40F0',
+    participant: undefined
+  },
+  messageTimestamp: 1709516206,
+  pushName: 'Juan José Falci',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ya te paso los datos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya te paso los datos',
+  name: 'Juan José Falci',
+  from: '5493815941393'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815941393@s.whatsapp.net',
+    fromMe: false,
+    id: '00FF3F627203BA059BF70D3FDD25AE33',
+    participant: undefined
+  },
+  messageTimestamp: 1709516275,
+  pushName: 'Juan José Falci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Calpasa SRL',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Calpasa SRL',
+  name: 'Juan José Falci',
+  from: '5493815941393'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815941393@s.whatsapp.net',
+    fromMe: false,
+    id: '5A4BF78E70212CBB28A7B4526A09ABE3',
+    participant: undefined
+  },
+  messageTimestamp: 1709516275,
+  pushName: 'Juan José Falci',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '30-71182946-2',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '30-71182946-2',
+  name: 'Juan José Falci',
+  from: '5493815941393'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814740016@s.whatsapp.net',
+    fromMe: false,
+    id: 'DE40866C1BF32B507A6122A715052C4D',
+    participant: undefined
+  },
+  messageTimestamp: 1709517861,
+  pushName: 'Isa Gonzalez',
+  broadcast: false,
+  message: Message {
+    conversation: 'archivada',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'archivada',
+  name: 'Isa Gonzalez',
+  from: '5493814740016'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814740016@s.whatsapp.net',
+    fromMe: false,
+    id: 'FA6EABD763A4FA1C050D006A533122CF',
+    participant: undefined
+  },
+  messageTimestamp: 1709517862,
+  pushName: 'Isa Gonzalez',
+  broadcast: false,
+  message: Message {
+    conversation: 'besos',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'besos',
+  name: 'Isa Gonzalez',
+  from: '5493814740016'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3A26960A69C600437A71',
+    participant: undefined
+  },
+  messageTimestamp: 1709518070,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Acá',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Acá',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8F6D1D5F4ACD1ED21F',
+    participant: undefined
+  },
+  messageTimestamp: 1709518072,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Casaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Casaaaa',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE20D411D2000C43190',
+    participant: undefined
+  },
+  messageTimestamp: 1709518078,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Q Tas tomando ? Jaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Q Tas tomando ? Jaja',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB1CB13BC97EE29CBBC',
+    participant: undefined
+  },
+  messageTimestamp: 1709518260,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Jajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajaja',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA7842921A13174AFD4',
+    participant: undefined
+  },
+  messageTimestamp: 1709518263,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pasadaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pasadaaaa',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815044802@s.whatsapp.net',
+    fromMe: false,
+    id: '3A56070B8C38D8F5A4FD',
+    participant: undefined
+  },
+  messageTimestamp: 1709518268,
+  pushName: 'Rodrigo',
+  broadcast: false,
+  message: Message {
+    conversation: 'Q te vas a dormir ?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Q te vas a dormir ?',
+  name: 'Rodrigo',
+  from: '5493815044802'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814477024@s.whatsapp.net',
+    fromMe: false,
+    id: '30502EDDB3862FAF6A96F7D6891A9121',
+    participant: undefined
+  },
+  messageTimestamp: 1709518432,
+  pushName: 'Cande Muñoz',
+  broadcast: false,
+  message: Message {
+    conversation: 'Maíz que sos jajajajajajaja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Maíz que sos jajajajajajaja',
+  name: 'Cande Muñoz',
+  from: '5493814477024'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815733748@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD7FB811DCC9B3E6A8B',
+    participant: undefined
+  },
+  messageTimestamp: 1709518452,
+  pushName: 'Paula Grosso',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'ayy las amo!',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ayy las amo!',
+  name: 'Paula Grosso',
+  from: '5493815733748'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493815733748@s.whatsapp.net',
+    fromMe: false,
+    id: '3AF272A814F480C1A3D9',
+    participant: undefined
+  },
+  messageTimestamp: 1709518454,
+  pushName: 'Paula Grosso',
+  broadcast: false,
+  message: Message {
+    conversation: 'las extraño boe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'las extraño boe',
+  name: 'Paula Grosso',
+  from: '5493815733748'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814740016@s.whatsapp.net',
+    fromMe: false,
+    id: '9FE9CDF4CEB36FA1ECFBE5119888119D',
+    participant: undefined
+  },
+  messageTimestamp: 1709518482,
+  pushName: 'Isa Gonzalez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'jajajajajaajajajaj',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'jajajajajaajajajaj',
+  name: 'Isa Gonzalez',
+  from: '5493814740016'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493814740016@s.whatsapp.net',
+    fromMe: false,
+    id: '37EC0E72DFC804B6252C12E860A08A73',
+    participant: undefined
+  },
+  messageTimestamp: 1709518486,
+  pushName: 'Isa Gonzalez',
+  broadcast: false,
+  message: Message {
+    conversation: 'no vuelven todavía?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'no vuelven todavía?',
+  name: 'Isa Gonzalez',
+  from: '5493814740016'
+}
