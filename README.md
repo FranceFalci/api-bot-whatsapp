@@ -16,3 +16,5 @@ sudo systemctl enable nginx
 service nginx status
 
 # Clonar el repositorio en la nube, instalar node 
+rm -rf directorio
+eliminar respositorio
